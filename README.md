@@ -5,8 +5,8 @@
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Olena-Nechyporenko/react-storybook.git
+cd react-storybook
 ```
 
 ### 2. Install Dependencies
